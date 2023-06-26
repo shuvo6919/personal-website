@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav a:hover {
+    background-color: black;
+    padding: 5px;
+    width: 50px;
+
+}
+
+.section-1 {
+    background-image: linear-gradient(rgb(9, 233, 249), white);
+    padding-top: 20px;
+    display: flex;
+}
+
+
+
+.s1-d1>h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.s1-d1 {
+    width: 50%;
+    padding: 150px 0px 150px 100px;
+}
+
+.s1-d2 {
+    width: 50%;
+}
+
+.s1-d2 img {
+    width: 50%;
+}
+
+.section-2 {
+    margin-right: 50%;
+}
